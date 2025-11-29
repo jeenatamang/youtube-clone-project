@@ -1,0 +1,15 @@
+    .heading {
+    font-family: montserrat bold;
+    font-size:40px;
+    text-align: center;
+    margin-left: 8px;
+    margin-right:8px;
+    }
+    .body{
+        font-family: montserrat regular;
+        font-size:20px;
+        text-align:center;
+    }
+    .span1 {
+        text-decoration: underline;
+    }
